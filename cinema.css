@@ -9,7 +9,8 @@
     display: flex;
     flex-wrap: wrap;
     background-color: #000;
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Oswald', sans-serif;
   }
   
   .section {
@@ -458,7 +459,7 @@
     background-color: #000; /* Black */
   }
   .textkine {
-    font-size: 70px;
+    font-size: 58px;
   }
   .sign-up {
     font-size: 60px;
